@@ -87,7 +87,8 @@ Examples :
 // !!! Remember that your changes GOES AT THE BOTTOM OF THIS FILE right before the last #endif !!!
 */
 
-
+#ifndef USE_WIFI_RANGE_EXTENDER
+#define USE_WIFI_RANGE_EXTENDER
 
 
 
